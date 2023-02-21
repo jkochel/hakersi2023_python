@@ -5,13 +5,13 @@ class Game:
         self.whose_turn_is_it = who_starts
     
     def _create_board(self):
-        list1 = []
+        row = []
         board = []
-        for i in range(self.board_size):
-            list1.append(None)
+        for _ in range(self.board_size):
+            row.append(None)
 
-        for j in range(self.board_size):
-            board.append(list1)
+        for _ in range(self.board_size):
+            board.append(row)
         return board
     
     
