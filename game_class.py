@@ -49,8 +49,6 @@ class Game:
         
         return s2
         
-    
-    
     def show_board(self):
 
         print(self._create_header())
