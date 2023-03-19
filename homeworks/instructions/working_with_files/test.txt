@@ -1,0 +1,7 @@
+nasz plik ma wiele lini
+to jest druga linia
+a to trzecia
+
+w czwartej linii jest pusto
+juz prawie koniec
+7 linii wystarczy

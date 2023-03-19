@@ -1,0 +1,10 @@
+{ "kontakty": [ 
+	{ "imie": "Jan", "nazwisko": "Kowalski", "telefon": "+48664158006"}, 
+        { "imie": "Piotr", "nazwisko": "Nowak",  "telefon": "+48556787656"},
+        { "imie": "Anna", "nazwisko": "Nowak",  "telefon": "+48989645687"},
+	{ "imie": "Paulina", "nazwisko": "Nowak",  "telefon": "+4898964568767"},
+	{ "imie": "Martin", "nazwisko": "Schmidt",  "telefon": "+49664765898"},
+	{ "imie": "Anna", "nazwisko": "Stanislawska",  "telefon": "884098675"},
+	{ "imie": "Michal", "nazwisko": "Bermut",  "telefon": 778675643},
+	{ "imie": "Monika", "nazwisko": "Nowak",  "telefon": "+48987456467"}
+  ] }
